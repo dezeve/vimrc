@@ -1,2 +1,3 @@
-# vimrc
-My .vimrc file.
+# About
+
+My **.vimrc** file.
